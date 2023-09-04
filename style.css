@@ -1,11 +1,16 @@
-p {
-    text-align: center;
-        background: #CCCCCC;
-    }
+body {
+    background-color: darkgray;
+}
 
-    h1 {
-        background: #CCCCCC;
-    }
-    body {
-        background: #CCCCCC;
-    }
+h1 {
+    text-align: center;
+}
+
+p {
+ text-align: center;
+ background-color: darkgray; 
+}
+
+em strong {
+    color: red;
+}
