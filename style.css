@@ -1,16 +1,24 @@
 body {
-    background-color: darkgray;
+    background-color: #CCCCCC;
+}
+
+#banner {
+    width: 100%;
 }
 
 h1 {
-    text-align: center;
+ text-align: center;
 }
 
 p {
- text-align: center;
- background-color: darkgray; 
+    text-align: center;
+    backround: #CCCCCC
 }
 
 em strong {
-    color: red;
+    color: #FF0000;
+}
+
+#missao {
+    font-size: 20px:
 }
